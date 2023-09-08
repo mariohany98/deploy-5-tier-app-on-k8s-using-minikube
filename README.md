@@ -28,7 +28,7 @@
 
   git clone https://github.com/mariohany98/deploy-5-tier-app-on-k8s-using-minikube.git
 
-  cd deploy-5-tier-app-on-k8s-using-minikube
+  cd deploy-5-tier-app-on-k8s-using-minikube/k8s-config-files
   
 # Deployment
 
